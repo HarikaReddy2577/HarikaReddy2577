@@ -2,12 +2,12 @@
 
 <h3 align="center">
 Aspiring Software Engineer & Cybersecurity Professional <br/>
-Secure Coding • VAPT • Web Security • Python Automation • Application Development
+Secure Coding • VAPT • Web Security • Python Automation
 </h3>
 
 <p align="center">
   <a href="mailto:harikareddyvemireddy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-harikareddyvemireddy@gmail.com-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vemireddyharika" target="_blank">
@@ -15,102 +15,50 @@ Secure Coding • VAPT • Web Security • Python Automation • Application De
   </a>
 </p>
 
----
+## 👩‍💻 ABOUT ME
+I am an **aspiring Software Engineer with strong Cybersecurity expertise**, focused on building **secure, scalable, and real-world applications**.
 
-## 👩‍💻 About Me
-
-I am an **aspiring Software Engineer with a strong foundation in Cybersecurity**, focused on building **secure, scalable, and reliable applications**.
-
-- 🌱 Actively learning **Software Engineering principles**, **Cybersecurity fundamentals**, and **Python-based automation**
-- 🔐 Hands-on experience in **Vulnerability Assessment & Penetration Testing (VAPT)** and **Web Application Security**
-- 💬 Comfortable with **Python, Java, C, SQL, Linux**, and **Web development basics**
+- 🔐 Hands-on experience in **Vulnerability Assessment & Penetration Testing (VAPT)**
+- 🐍 Strong in **Python automation**, secure coding & modular design
+- 🌱 Actively learning **software engineering best practices**
 - 🎯 Career goal: **Software Engineer with Cybersecurity specialization**
-- 🛡️ Passionate about **secure coding, ethical hacking, and real-world vulnerability analysis**
 
----
-
-## 🚀 Featured Project (Pinned)
+## 🚀 FEATURED PROJECTS
 
 ### 🔐 CyberScan-Pro-Ultimate – Nmap Vulnerability Scanner
-**Advanced modular vulnerability scanning framework built using Python and Nmap**
+**Advanced Python-based network vulnerability scanning framework**
+Modular architecture (`core`, `modules`, `utils`)
+YAML-driven scan configuration
+Automated port, service & OS detection
+Generates structured security reports
 
-**Key Highlights:**
-- ✔ Modular and scalable architecture (`core`, `modules`, `utils`, `scripts`)
-- ✔ Configuration-driven scanning using **YAML**
-- ✔ Automated **port scanning**, **service detection**, and **OS fingerprinting**
-- ✔ Multi-format reporting (**Text, Markdown, Image-ready reports**)
-- ✔ Designed with **ethical and responsible security testing** practices
-
-🔗 **Repository:**  
+🔗 **Repo:**  
 👉 https://github.com/HarikaReddy2577/CyberScan-Pro-Ultimate-Nmap-Vulnerability-Scanner
 
-📌 *This project reflects my ability to design real-world cybersecurity tools, write clean Python code, and apply software engineering best practices.*
+### 🛡️ WebGuard-AutoVAPT – OWASP Top 10 Automation
+**Automated Web Application VAPT framework implementing OWASP Top 10**
+Detects SQL Injection, XSS, Authentication flaws & misconfigurations
+Clean AppSec architecture (`engine`, `modules`, `logs`, `config`)
+Realistic logging & reporting flow
+Built to simulate real AppSec / SOC tooling
 
----
+🔗 **Repo:**  
+👉 https://github.com/HarikaReddy2577/WebGuard-AutoVAPT-OWASP-Top-10
 
-## 🔍 Why I Built This Project
+## 🎯 WHAT THESE PROJECTS SHOW
+- Real-world **security tooling mindset**
+- Strong **Python + cybersecurity integration**
+- Clean, scalable **software design**
+- Ability to explain tools in **technical interviews**
 
-I built **CyberScan-Pro-Ultimate** to go beyond using security tools and instead **understand how vulnerability scanners work internally**.
+## TECHNICAL SKILLS
+**Languages:** Python, Java, C, SQL  
+**Security:** Nmap, Burp Suite, OWASP ZAP, Metasploit, Wireshark  
+**Tools:** Linux, Git, GitHub, MySQL  
 
-Through this project, I aimed to:
-- Understand **Nmap scanning mechanics and output parsing**
-- Practice **modular software design used in security teams**
-- Apply **secure coding standards**
-- Build a **configuration-driven security application**
-- Gain hands-on experience in **network reconnaissance and enumeration**
-
-This project helped me connect **cybersecurity theory with practical implementation**.
-
----
-
-## 🎯 Learning Outcomes
-
-From this project, I gained:
-- Strong understanding of **network scanning and enumeration**
-- Experience in **Python automation for cybersecurity**
-- Knowledge of **modular application architecture**
-- Hands-on practice with **ethical vulnerability assessment**
-- Ability to generate **clear, readable security reports**
-- Confidence in explaining my work during **technical interviews**
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming & Development
-- Python | Java | C | SQL
-- Secure Coding Practices
-- Application Development Fundamentals
-
-### 🖥️ Systems & Tools
-- Linux | Git | GitHub | MySQL | React (Basics)
-
-### 🔐 Cybersecurity Tools
-- Nmap
-- Metasploit
-- Burp Suite
-- OWASP ZAP
-- Wireshark
-
----
-
-## 📌 Other Notable Projects
-
-- 🛡️ **Web Vulnerability Analysis – OWASP Top 10**
-- 🏠 **House Price Prediction – Machine Learning Project**
-- 💻 **Secure Application Development Projects**
-
----
-
-## 🤝 Connect With Me
-
-📧 **Email:**  
-**harikareddyvemireddy@gmail.com**
-
-🔗 **LinkedIn:**  
-https://www.linkedin.com/in/vemireddyharika
-
----
+## 🤝 CONNECT WITH ME
+📧 **Email:** harikareddyvemireddy@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/vemireddyharika  
 
 <p align="center">
 ✨ <i>Building software with security at its core.</i> ✨
