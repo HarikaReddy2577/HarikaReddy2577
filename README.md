@@ -18,14 +18,14 @@ Secure Coding • VAPT • Web Security • Python Automation
 ## 👩‍💻 ABOUT ME
 I am an **aspiring Software Engineer with strong Cybersecurity expertise**, focused on building **secure, scalable, and real-world applications**.
 
-- 🔐 Hands-on experience in **Vulnerability Assessment & Penetration Testing (VAPT)**
-- 🐍 Strong in **Python automation**, secure coding & modular design
-- 🌱 Actively learning **software engineering best practices**
-- 🎯 Career goal: **Software Engineer with Cybersecurity specialization**
+- Hands-on experience in **Vulnerability Assessment & Penetration Testing (VAPT)**
+- Strong in **Python automation**, secure coding & modular design
+- Actively learning **software engineering best practices**
+- Career goal: **Software Engineer with Cybersecurity specialization**
 
 ## 🚀 FEATURED PROJECTS
 
-### 🔐 CyberScan-Pro-Ultimate – Nmap Vulnerability Scanner
+### 🔐CyberScan-Pro-Ultimate – Nmap Vulnerability Scanner
 **Advanced Python-based network vulnerability scanning framework**
 Modular architecture (`core`, `modules`, `utils`)
 YAML-driven scan configuration
@@ -33,7 +33,7 @@ Automated port, service & OS detection
 Generates structured security reports
 
 🔗 **Repo:**  
-👉 https://github.com/HarikaReddy2577/CyberScan-Pro-Ultimate-Nmap-Vulnerability-Scanner
+ https://github.com/HarikaReddy2577/CyberScan-Pro-Ultimate-Nmap-Vulnerability-Scanner
 
 ### 🛡️ WebGuard-AutoVAPT – OWASP Top 10 Automation
 **Automated Web Application VAPT framework implementing OWASP Top 10**
@@ -43,9 +43,9 @@ Realistic logging & reporting flow
 Built to simulate real AppSec / SOC tooling
 
 🔗 **Repo:**  
-👉 https://github.com/HarikaReddy2577/WebGuard-AutoVAPT-OWASP-Top-10
+ https://github.com/HarikaReddy2577/WebGuard-AutoVAPT-OWASP-Top-10
 
-## 🎯 WHAT THESE PROJECTS SHOW
+## WHAT THESE PROJECTS SHOW
 - Real-world **security tooling mindset**
 - Strong **Python + cybersecurity integration**
 - Clean, scalable **software design**
