@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harika Vemireddy</h1>
+<h1 align="center">Hi 👋, I'm HARIKA VEMIREDDY</h1>
 
 <h3 align="center">
 Aspiring Software Engineer & Cybersecurity Professional <br/>
@@ -7,7 +7,11 @@ Secure Coding • VAPT • Web Security • Python Automation • Application De
 
 <p align="center">
   <a href="mailto:harikareddyvemireddy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-harikareddyvemireddy@gmail.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vemireddyharika" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
@@ -21,6 +25,24 @@ Secure Coding • VAPT • Web Security • Python Automation • Application De
 
 ---
 
+## 🚀 Project (Pinned & Featured)
+
+### 🔐 CyberScan-Pro-Ultimate – Nmap Vulnerability Scanner
+**Advanced Python-based vulnerability scanning tool using Nmap**
+
+- ✔ Modular architecture (core, modules, utils, scripts)
+- ✔ Configuration-driven scanning using YAML
+- ✔ Automated port scanning, service detection & OS identification
+- ✔ Multi-format reporting (Text, Markdown, Image reports)
+- ✔ Ethical security testing focused
+
+🔗 **GitHub Repository:**  
+👉 https://github.com/<your-username>/CyberScan-Pro-Ultimate-Nmap-Vulnerability-Scanner
+
+📌 *This project demonstrates my hands-on experience in cybersecurity tooling, secure coding, and software design.*
+
+---
+
 <h3 align="left">
 Connect with me:
 <a href="https://www.linkedin.com/in/vemireddyharika" target="_blank" rel="noreferrer">
@@ -30,6 +52,9 @@ Connect with me:
        height="26"/>
 </a>
 </h3>
+
+📧 **Email:**  
+**harikareddyvemireddy@gmail.com**
 
 ---
 
@@ -50,8 +75,7 @@ Connect with me:
 
 ---
 
-### 📌 Featured Projects
-- 🔐 **CyberScan-Pro – Nmap Vulnerability Scanner**
+### 📌 Other Projects
 - 🛡️ **Web Vulnerability Analysis – OWASP Top 10**
 - 🏠 **House Price Prediction – Machine Learning Project**
 - 💻 **Secure Application Development Projects**
