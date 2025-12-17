@@ -17,68 +17,100 @@ Secure Coding • VAPT • Web Security • Python Automation • Application De
 
 ---
 
-### 🌱 About Me
-- 🌱 Actively learning **Software Engineering principles** along with **Cybersecurity fundamentals, Vulnerability Assessment & Penetration Testing (VAPT), Secure Coding, and Python Automation**
-- 💬 Comfortable with **Python, Java, C, Web Development basics, Ethical Hacking, and Web Application Security**
-- 🎯 Career-focused on becoming a **Software Engineer with strong Cybersecurity expertise**
-- 🛡️ Interested in **building secure, scalable applications and identifying real-world vulnerabilities**
+## 👩‍💻 About Me
+
+I am an **aspiring Software Engineer with a strong foundation in Cybersecurity**, focused on building **secure, scalable, and reliable applications**.
+
+- 🌱 Actively learning **Software Engineering principles**, **Cybersecurity fundamentals**, and **Python-based automation**
+- 🔐 Hands-on experience in **Vulnerability Assessment & Penetration Testing (VAPT)** and **Web Application Security**
+- 💬 Comfortable with **Python, Java, C, SQL, Linux**, and **Web development basics**
+- 🎯 Career goal: **Software Engineer with Cybersecurity specialization**
+- 🛡️ Passionate about **secure coding, ethical hacking, and real-world vulnerability analysis**
 
 ---
 
-## 🚀 Project (Pinned & Featured)
+## 🚀 Featured Project (Pinned)
 
 ### 🔐 CyberScan-Pro-Ultimate – Nmap Vulnerability Scanner
-**Advanced Python-based vulnerability scanning tool using Nmap**
+**Advanced modular vulnerability scanning framework built using Python and Nmap**
 
-- ✔ Modular architecture (core, modules, utils, scripts)
-- ✔ Configuration-driven scanning using YAML
-- ✔ Automated port scanning, service detection & OS identification
-- ✔ Multi-format reporting (Text, Markdown, Image reports)
-- ✔ Ethical security testing focused
+**Key Highlights:**
+- ✔ Modular and scalable architecture (`core`, `modules`, `utils`, `scripts`)
+- ✔ Configuration-driven scanning using **YAML**
+- ✔ Automated **port scanning**, **service detection**, and **OS fingerprinting**
+- ✔ Multi-format reporting (**Text, Markdown, Image-ready reports**)
+- ✔ Designed with **ethical and responsible security testing** practices
 
-🔗 **GitHub Repository:**  
-👉 https://github.com/<your-username>/CyberScan-Pro-Ultimate-Nmap-Vulnerability-Scanner
+🔗 **Repository:**  
+👉 https://github.com/HarikaReddy2577/CyberScan-Pro-Ultimate-Nmap-Vulnerability-Scanner
 
-📌 *This project demonstrates my hands-on experience in cybersecurity tooling, secure coding, and software design.*
+📌 *This project reflects my ability to design real-world cybersecurity tools, write clean Python code, and apply software engineering best practices.*
 
 ---
 
-<h3 align="left">
-Connect with me:
-<a href="https://www.linkedin.com/in/vemireddyharika" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-       alt="LinkedIn"
-       width="26"
-       height="26"/>
-</a>
-</h3>
+## 🔍 Why I Built This Project
+
+I built **CyberScan-Pro-Ultimate** to go beyond using security tools and instead **understand how vulnerability scanners work internally**.
+
+Through this project, I aimed to:
+- Understand **Nmap scanning mechanics and output parsing**
+- Practice **modular software design used in security teams**
+- Apply **secure coding standards**
+- Build a **configuration-driven security application**
+- Gain hands-on experience in **network reconnaissance and enumeration**
+
+This project helped me connect **cybersecurity theory with practical implementation**.
+
+---
+
+## 🎯 Learning Outcomes
+
+From this project, I gained:
+- Strong understanding of **network scanning and enumeration**
+- Experience in **Python automation for cybersecurity**
+- Knowledge of **modular application architecture**
+- Hands-on practice with **ethical vulnerability assessment**
+- Ability to generate **clear, readable security reports**
+- Confidence in explaining my work during **technical interviews**
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming & Development
+- Python | Java | C | SQL
+- Secure Coding Practices
+- Application Development Fundamentals
+
+### 🖥️ Systems & Tools
+- Linux | Git | GitHub | MySQL | React (Basics)
+
+### 🔐 Cybersecurity Tools
+- Nmap
+- Metasploit
+- Burp Suite
+- OWASP ZAP
+- Wireshark
+
+---
+
+## 📌 Other Notable Projects
+
+- 🛡️ **Web Vulnerability Analysis – OWASP Top 10**
+- 🏠 **House Price Prediction – Machine Learning Project**
+- 💻 **Secure Application Development Projects**
+
+---
+
+## 🤝 Connect With Me
 
 📧 **Email:**  
 **harikareddyvemireddy@gmail.com**
 
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> Python &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/> Java &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/> C &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/> Linux &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/> Git &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35"/> MySQL &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="35"/> React
-</p>
-
-<p align="left">
-  🔐 <strong>Security Tools:</strong> Nmap, Metasploit, Burp Suite, OWASP ZAP, Wireshark
-</p>
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/vemireddyharika
 
 ---
-
-### 📌 Other Projects
-- 🛡️ **Web Vulnerability Analysis – OWASP Top 10**
-- 🏠 **House Price Prediction – Machine Learning Project**
-- 💻 **Secure Application Development Projects**
 
 <p align="center">
 ✨ <i>Building software with security at its core.</i> ✨
