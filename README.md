@@ -12,6 +12,7 @@
 </p>
 
 ABOUT ME
+
 I am an **aspiring Software Engineer with strong Cybersecurity expertise**, focused on building **secure, scalable, and real-world applications**.
 
 - Hands-on experience in **Vulnerability Assessment & Penetration Testing (VAPT)**
