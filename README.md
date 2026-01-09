@@ -48,13 +48,10 @@ WHAT THESE PROJECTS SHOW
 - Ability to explain tools in **technical interviews**
 
 TECHNICAL SKILLS
+
 **Languages:** Python, Java, C, SQL  
 **Security:** Nmap, Burp Suite, OWASP ZAP, Metasploit, Wireshark  
 **Tools:** Linux, Git, GitHub, MySQL  
-
-CONNECT WITH ME
-📧 **Email:** harikareddyvemireddy@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/vemireddyharika  
 
 <p align="center">
 ✨ <i>Building software with security at its core.</i> ✨
