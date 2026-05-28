@@ -10,7 +10,6 @@
 
 </div>
 
----
 
 ## ABOUT ME
 
@@ -21,7 +20,6 @@ Computer Science Engineer (B.Tech 2026) with hands-on expertise in **secure soft
 - Hands-on with **Docker**, **GitHub Actions CI/CD**, and **PostgreSQL**
 - Agile practitioner — requirements analysis, unit testing, code reviews & debugging
 
----
 
 ## TECHNICAL SKILLS
 
@@ -51,7 +49,6 @@ Computer Science Engineer (B.Tech 2026) with hands-on expertise in **secure soft
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
 
 ## PROJECTS
 
